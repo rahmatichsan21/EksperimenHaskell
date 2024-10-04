@@ -1,0 +1,5 @@
+Untuk Run Programnya anda Lakukan 
+1. Compile dulu file .hs dengan cara :
+ghc -o CumulativeReturn CumulativeReturn.hs
+2. Kemudian anda Run File .exe dengan cara :
+./CumulativeReturn.exe
